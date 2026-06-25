@@ -1,0 +1,10 @@
+refs/
+tools/
+test/
+results/
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+**/_chr22/
+**/_staged/
+**/__pycache__/
