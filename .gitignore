@@ -8,3 +8,4 @@ results/
 **/_chr22/
 **/_staged/
 **/__pycache__/
+.DS_Store
