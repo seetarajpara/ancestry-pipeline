@@ -84,7 +84,7 @@ FLARE2 (Oct 2025, same repo) is designed for exactly the case where a source
 population is poorly represented by the reference — worth a look if the
 Indigenous-American reference is thin.
 
-## Gotchas (the things that actually break these pipelines)
+## The things that actually break these pipelines
 
 1. **Genome build.** The query, the reference panel, and the genetic map must
    all be the same build. Mixing GRCh37 and GRCh38 fails silently (0 overlapping
